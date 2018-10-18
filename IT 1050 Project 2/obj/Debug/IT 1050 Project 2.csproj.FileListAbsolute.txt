@@ -1,0 +1,14 @@
+C:\Users\dgibson\Documents\Projects\IT 1050 Project 2.sln\IT 1050 Project 2\bin\Debug\IT 1050 Project 2.exe.config
+C:\Users\dgibson\Documents\Projects\IT 1050 Project 2.sln\IT 1050 Project 2\bin\Debug\IT 1050 Project 2.exe
+C:\Users\dgibson\Documents\Projects\IT 1050 Project 2.sln\IT 1050 Project 2\bin\Debug\IT 1050 Project 2.pdb
+C:\Users\dgibson\Documents\Projects\IT 1050 Project 2.sln\IT 1050 Project 2\obj\Debug\IT 1050 Project 2.csprojAssemblyReference.cache
+C:\Users\dgibson\Documents\Projects\IT 1050 Project 2.sln\IT 1050 Project 2\obj\Debug\IT 1050 Project 2.csproj.CoreCompileInputs.cache
+C:\Users\dgibson\Documents\Projects\IT 1050 Project 2.sln\IT 1050 Project 2\obj\Debug\IT 1050 Project 2.exe
+C:\Users\dgibson\Documents\Projects\IT 1050 Project 2.sln\IT 1050 Project 2\obj\Debug\IT 1050 Project 2.pdb
+C:\Users\dgibson\Documents\IT 1050 Project 2.sln\IT 1050 Project 2\bin\Debug\IT 1050 Project 2.exe.config
+C:\Users\dgibson\Documents\IT 1050 Project 2.sln\IT 1050 Project 2\bin\Debug\IT 1050 Project 2.exe
+C:\Users\dgibson\Documents\IT 1050 Project 2.sln\IT 1050 Project 2\bin\Debug\IT 1050 Project 2.pdb
+C:\Users\dgibson\Documents\IT 1050 Project 2.sln\IT 1050 Project 2\obj\Debug\IT 1050 Project 2.csprojAssemblyReference.cache
+C:\Users\dgibson\Documents\IT 1050 Project 2.sln\IT 1050 Project 2\obj\Debug\IT 1050 Project 2.csproj.CoreCompileInputs.cache
+C:\Users\dgibson\Documents\IT 1050 Project 2.sln\IT 1050 Project 2\obj\Debug\IT 1050 Project 2.exe
+C:\Users\dgibson\Documents\IT 1050 Project 2.sln\IT 1050 Project 2\obj\Debug\IT 1050 Project 2.pdb
