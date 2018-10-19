@@ -9,8 +9,6 @@ namespace IT_1050_Project_2
     class Person
     {
         // Public member variables
-        // Public member variables
-
 
         public string FirstName;
         public string LastName;

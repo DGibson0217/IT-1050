@@ -38,7 +38,7 @@ namespace IT_1050_Project_2
             Console.WriteLine("Press any key to continue...");
             Console.ReadLine();
 
-
+         // Person 2
             Person p2 = new Person();
             Console.WriteLine("What is your First Name?");
             p2.FirstName = Console.ReadLine();
