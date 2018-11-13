@@ -1,0 +1,7 @@
+C:\Users\dgibson\Documents\Dev\Schoolwork\IT-1050-Lab-2\IT-1050-Lab-3\IT-1050-Lab 3 solution\IT-1050-Lab 3\bin\Debug\IT-1050-Lab 3.exe.config
+C:\Users\dgibson\Documents\Dev\Schoolwork\IT-1050-Lab-2\IT-1050-Lab-3\IT-1050-Lab 3 solution\IT-1050-Lab 3\bin\Debug\IT-1050-Lab 3.exe
+C:\Users\dgibson\Documents\Dev\Schoolwork\IT-1050-Lab-2\IT-1050-Lab-3\IT-1050-Lab 3 solution\IT-1050-Lab 3\bin\Debug\IT-1050-Lab 3.pdb
+C:\Users\dgibson\Documents\Dev\Schoolwork\IT-1050-Lab-2\IT-1050-Lab-3\IT-1050-Lab 3 solution\IT-1050-Lab 3\obj\Debug\IT-1050-Lab 3.csprojAssemblyReference.cache
+C:\Users\dgibson\Documents\Dev\Schoolwork\IT-1050-Lab-2\IT-1050-Lab-3\IT-1050-Lab 3 solution\IT-1050-Lab 3\obj\Debug\IT-1050-Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\dgibson\Documents\Dev\Schoolwork\IT-1050-Lab-2\IT-1050-Lab-3\IT-1050-Lab 3 solution\IT-1050-Lab 3\obj\Debug\IT-1050-Lab 3.exe
+C:\Users\dgibson\Documents\Dev\Schoolwork\IT-1050-Lab-2\IT-1050-Lab-3\IT-1050-Lab 3 solution\IT-1050-Lab 3\obj\Debug\IT-1050-Lab 3.pdb
