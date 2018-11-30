@@ -101,6 +101,13 @@ namespace IT_1050_lab_4
                 totalPrice -= (addcandy / 4) * candy;
             }
 
+            if (addChild + addAdult + addSenior >= 3)
+            {
+                totalPrice -= popCorn;
+            }
+            if ()
+
+
             Console.WriteLine(totalPrice);
             Console.ReadLine();
 
