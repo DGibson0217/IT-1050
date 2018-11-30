@@ -35,7 +35,7 @@ namespace IT_1050_lab_4
             int addhotDog;
             int addpopCorn;
             int addcandy;
-
+            
             Console.WriteLine("Matinee or Evening?");
             string inputTime = Console.ReadLine();
             Console.WriteLine();
@@ -101,11 +101,16 @@ namespace IT_1050_lab_4
                 totalPrice -= (addcandy / 4) * candy;
             }
 
-            if (addChild + addAdult + addSenior >= 3)
+            if (addChild + addAdult + addSenior >= 3 && !isMatinee)
             {
-                totalPrice -= popCorn;
+                addpopCorn++;
+                if (addpopCorn >= 1)
+                {
+                    totalPrice -= popCorn;
+                }
             }
-            if ()
+          
+             
 
 
             Console.WriteLine(totalPrice);
