@@ -109,10 +109,7 @@ namespace IT_1050_lab_4
                     totalPrice -= popCorn;
                 }
             }
-          
-             
-
-
+   
             Console.WriteLine(totalPrice);
             Console.ReadLine();
 
