@@ -27,6 +27,9 @@ namespace IT_1050_lab_4
 
             bool isMatinee = false;
             double totalPrice = 0;
+            double discountTotal = 0;
+            double totalPriceDiscounted;
+            int totalNumTickets;
             int addChild;
             int addAdult;
             int addSenior;
@@ -71,6 +74,7 @@ namespace IT_1050_lab_4
             {
                 totalPrice += (eveningChild * addChild) + (eveningAdult * addAdult) + (eveningSenior * addSenior);
             }
+            totalNumTickets = addChild + addAdult + addSenior;
             #endregion
             #region Part 2
             Console.WriteLine("How many Small Sodas would you like?");
@@ -98,7 +102,7 @@ namespace IT_1050_lab_4
  
             if ((addcandy % 4) == 0)
             {
-                totalPrice -= (addcandy / 4) * candy;
+                discountTotal += (addcandy / 4) * candy;
             }
 
             if (addChild + addAdult + addSenior >= 3 && !isMatinee)
@@ -106,11 +110,18 @@ namespace IT_1050_lab_4
                 addpopCorn++;
                 if (addpopCorn >= 1)
                 {
-                    totalPrice -= popCorn;
+                    discountTotal += popCorn;
                 }
             }
-   
-            Console.WriteLine(totalPrice);
+
+            int min1 = System.Math.Min(addpopCorn, addlargeSoda);
+
+            int min2 = System.Math.Min(min1, totalNumTickets);
+            discountTotal += (min2 * 2.0);
+
+            totalPriceDiscounted = totalPrice - discountTotal;
+
+            Console.WriteLine(totalPriceDiscounted);
             Console.ReadLine();
 
         }
