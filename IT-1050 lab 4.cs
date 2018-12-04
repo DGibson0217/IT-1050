@@ -120,8 +120,7 @@ namespace IT_1050_lab_4
             discountTotal += (min2 * 2.0);
 
             totalPriceDiscounted = totalPrice - discountTotal;
-
-            Console.WriteLine(totalPriceDiscounted);
+            Console.WriteLine("Your total price after discounts:" + totalPriceDiscounted);
             Console.ReadLine();
 
         }
